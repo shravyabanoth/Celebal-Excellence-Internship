@@ -1,10 +1,4 @@
 # Week 5 Assignment – Text Generation using RNN, LSTM and GRU
-
-## Student Details
-- **Name:** Shravya
-- **Internship:** Celebal Technologies – Data Science Internship
-- **Week:** 5
-
 ## Objective
 The objective of this assignment is to build and compare three deep learning models—SimpleRNN, LSTM, and GRU—for text generation. The models are trained on a custom text corpus to learn sequential patterns and generate meaningful text from a given seed phrase.
 
